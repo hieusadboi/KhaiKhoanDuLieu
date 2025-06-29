@@ -1,0 +1,17 @@
+# Thư mục và file không cần push
+__pycache__/
+*.pyc
+
+# Môi trường ảo
+venv/
+env/
+
+# IDE (VSCode, PyCharm...)
+.vscode/
+.idea/
+
+# Hệ điều hành
+.DS_Store
+
+# File mô hình
+*.pkl
